@@ -34,7 +34,7 @@ body{
   display: grid;
   grid-template-columns: 2fr 1.5fr;
   height: 100vh;
-  background-color: teal;
+  background-color: #201B3C;
   padding: 0 10%;
 }
 
