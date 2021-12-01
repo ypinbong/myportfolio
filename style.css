@@ -150,9 +150,12 @@ body{
 }
 
 .picture__background{
-  height:35rem;
-  width:20rem;
-  background: white;
+  position: absolute;
+  top:11rem;
+  right: 14.5rem;
+  height:38rem;
+  width:35rem;
+  background: rgba(255, 255, 255, 0.638);
 }
 
 .header__picture{
